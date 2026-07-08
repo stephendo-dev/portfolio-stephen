@@ -23,7 +23,7 @@ export default function Home() {
                 <span className="text-[#d73a49]">const</span>{' '}
                 <span className="text-[#005cc5]">githubLink</span> ={' '}
                 <a
-                  href="https://github.com/huydq189"
+                  href="https://github.com/stephendo-dev"
                   target="_blank"
                   rel="noopener"
                   className="text-[#032f62] hover:underline hover:text-[#111]"
