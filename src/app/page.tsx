@@ -28,7 +28,7 @@ export default function Home() {
                   rel="noopener"
                   className="text-[#032f62] hover:underline hover:text-[#111]"
                 >
-                  'https://github.com/huydq189'
+                  'https://github.com/stephendo-dev'
                 </a>
               </code>
             </pre>
